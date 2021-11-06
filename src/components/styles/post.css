@@ -1,0 +1,20 @@
+.callout--container {
+  padding: 0.625rem;
+  margin: 0 0 0.625rem 0;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0 1px 2px 0;
+}
+
+.callout--message {
+  margin-bottom: 0;
+}
+
+.button__ops {
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.button__ops--flag {
+  margin-right: 0.5rem;
+}
